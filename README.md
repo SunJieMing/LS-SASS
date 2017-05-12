@@ -1,4 +1,4 @@
-# SASS
+# SASS & Responsive Design
 
 ## Topics
 
