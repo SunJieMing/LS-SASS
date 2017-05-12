@@ -2,10 +2,10 @@
 
 ## Topics
 
-media queries
-SASS
-% vs px
-Responsive design
+* media queries
+* SASS
+* % vs px
+* Responsive design
 
 
 To add SASS install the following dependencies: `npm i --save-dev npm-run-all node-sass`
