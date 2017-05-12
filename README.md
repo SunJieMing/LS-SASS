@@ -7,6 +7,7 @@
 * % vs px
 * Responsive design
 
+## SASS Installation Instructions
 
 To add SASS install the following dependencies: `npm i --save-dev npm-run-all node-sass`
 
